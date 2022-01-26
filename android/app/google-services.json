@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1020229479214",
+    "project_id": "flutter-hourman",
+    "storage_bucket": "flutter-hourman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020229479214:android:0c372f0bc4db29664fa8bf",
+        "android_client_info": {
+          "package_name": "com.timerman.hourman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020229479214-cdia8o8qmknl8u1mo02em4k0d3lmkc0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.timerman.hourman",
+            "certificate_hash": "2229654aaa8151052dc41f78eb9b8b9b1c51c049"
+          }
+        },
+        {
+          "client_id": "1020229479214-n4qiq1pl15qj59kugb6rmssb54skprkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkmRdUc-CKJaNlWn4ie2z_2DANF8mUfXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020229479214-n4qiq1pl15qj59kugb6rmssb54skprkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
